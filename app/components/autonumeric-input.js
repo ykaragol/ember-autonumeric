@@ -1,0 +1,1 @@
+export { default } from 'ember-autonumeric/components/autonumeric-input';
